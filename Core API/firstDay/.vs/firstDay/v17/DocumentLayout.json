@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|c:\\users\\orange\\desktop\\core api\\firstday\\firstday.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3E9F85-C0FA-40C2-A6DC-E13A315BA24A}|firstDay.Server\\firstDay.Server.csproj|solutionrelative:firstday.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "firstDay.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "firstDay.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:08:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "firstDay.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Models\\Product.cs",
+              "RelativeToolTip": "firstDay.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:08:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "firstDay.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Models\\Category.cs",
+              "RelativeToolTip": "firstDay.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:06:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "firstDay.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "firstDay.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:05:44.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "firstDay.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\appsettings.json",
+              "RelativeToolTip": "firstDay.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T08:43:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Program.cs",
+              "RelativeDocumentMoniker": "firstDay.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Program.cs",
+              "RelativeToolTip": "firstDay.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:43:18.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "firstDay.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstDay.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "firstDay.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:41:23.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

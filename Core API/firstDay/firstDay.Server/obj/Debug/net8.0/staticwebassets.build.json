@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "jFLMW08TUZRAyKurV2jNM0CxjA+rr73fFN9EL7RaF8c=",
+  "Source": "firstDay.Server",
+  "BasePath": "_content/firstDay.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\Core API\\firstDay\\firstday.client\\firstday.client.esproj",
+      "Version": 2,
+      "Source": "firstday.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
